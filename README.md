@@ -31,6 +31,13 @@ $docker ps
 
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/45cd11a2-ba4a-4782-99ae-0720761d5685)
 
+paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 8080 y entrar al administrador por defecto del servicio de moodle
+
+#localhost:8080
+
+# usuario: user
+
+# contraseña: bitnami 
 
 
 
