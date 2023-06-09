@@ -41,10 +41,14 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/bb44a658-a30d-478b-8693-936731363ae0)
 
+
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/513f230f-5f6b-4f3f-8d03-a5475eb59c7a)
 
 
 paso 6 - editar el administrador defecto por la persona que designes como administrador
+
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/a0078f20-b4d9-4eb5-baec-0e01501927e3)
+
 
 
 
