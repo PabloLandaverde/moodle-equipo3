@@ -42,6 +42,7 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/bb44a658-a30d-478b-8693-936731363ae0)
 
 
+
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/513f230f-5f6b-4f3f-8d03-a5475eb59c7a)
 
 
@@ -79,6 +80,17 @@ paso 9 - inscribir y asignar roles a los usuarios
 
 
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/128610fd-0d58-42ce-9079-eda509de9627)
+
+paso 10 - login de usuario y curso creado
+
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/fe0d4cfd-eb3d-494d-abbc-770954917950)
+
+
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/4e18ad61-81c9-41a0-bf1c-5b9633d3cf73)
+
+
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/51ca502e-0425-4c88-9ed9-c8187b0f7e92)
+
 
 
 
