@@ -70,6 +70,19 @@ paso 7 - crear tu curso
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/cacc505a-cd24-4c8a-82ee-63e66860e936)
 
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/5ef2973d-9421-4fed-92de-898b31ce2b03)
+
+
+paso 9 - inscribir y asignar roles a los usuarios
+
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/f85ed121-4dcd-4804-a988-24e75656989e)
+
+
+
+
+
+
+
 
 
 
