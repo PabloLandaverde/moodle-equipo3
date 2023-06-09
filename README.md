@@ -17,4 +17,16 @@ $ cd moodle-equipo3
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/35dcd306-6ef5-438e-909a-ed0be54ff789)
 
 
+paso 3 - correr el docker compose con el comando:
+
+$docker-compose up -d
+
+
+
+
+paso 4 - verificar que los contenedores esten corriendo en sus puertos correspondientes con el siguiente comando :
+
+$docker ps
+
+
 
