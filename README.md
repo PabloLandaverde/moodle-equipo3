@@ -39,6 +39,9 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 
 - contraseña: bitnami 
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/bb44a658-a30d-478b-8693-936731363ae0)
+
+
 
 
 
