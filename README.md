@@ -62,6 +62,15 @@ paso 7 - crear tu curso
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/d26759c1-d64c-4cf2-8136-02ae1d684f0b)
 
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/70763b7f-0614-4f89-87ae-2d509cf36b8a)
+
+
+8- crear tu usuarios
+
+
+
+
+
 
 
 
