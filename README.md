@@ -78,6 +78,10 @@ paso 9 - inscribir y asignar roles a los usuarios
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/f85ed121-4dcd-4804-a988-24e75656989e)
 
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/128610fd-0d58-42ce-9079-eda509de9627)
+
+
+
 
 
 
