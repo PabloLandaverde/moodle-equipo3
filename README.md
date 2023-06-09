@@ -43,6 +43,11 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 
 
 
+paso 6 - editar el administrador defecto por la persona que designes como administrador
+
+
+
+
 
 
 
