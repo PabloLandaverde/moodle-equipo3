@@ -21,12 +21,15 @@ paso 3 - correr el docker compose con el comando:
 
 $docker-compose up -d
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/532dbe26-cc3b-45c6-8ee6-978b1996ac06)
 
 
 
 paso 4 - verificar que los contenedores esten corriendo en sus puertos correspondientes con el siguiente comando :
 
 $docker ps
+
+
 
 
 
