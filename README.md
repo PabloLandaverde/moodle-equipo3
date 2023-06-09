@@ -29,6 +29,10 @@ paso 4 - verificar que los contenedores esten corriendo en sus puertos correspon
 
 $docker ps
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/45cd11a2-ba4a-4782-99ae-0720761d5685)
+
+
+
 
 
 
