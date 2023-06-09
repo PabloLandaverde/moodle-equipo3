@@ -53,6 +53,9 @@ paso 6 - editar el administrador defecto por la persona que designes como admini
 
 paso 7 - crear tu curso
 
+![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/abf7016a-08dd-4f45-8dbb-2d782d6e2d8b)
+
+
 
 
 
