@@ -35,9 +35,9 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 
 #localhost:8080
 
-# usuario: user
+- usuario: user
 
-# contraseña: bitnami 
+- contraseña: bitnami 
 
 
 
