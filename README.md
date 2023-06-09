@@ -47,7 +47,12 @@ paso 5 - entrar a nuestro navegador e ingresar nuestra ip seguida del puerto 808
 
 paso 6 - editar el administrador defecto por la persona que designes como administrador
 
+- editar perfil 
+
 ![image](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/a0078f20-b4d9-4eb5-baec-0e01501927e3)
+
+paso 7 - crear tu curso
+
 
 
 
