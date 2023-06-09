@@ -7,6 +7,8 @@ Paso 1 - clonar el repositorio de git con el siguiente comando_
 
 $ git clone https://github.com/PabloLandaverde/moodle-equipo3.git
 
+![clon](https://github.com/PabloLandaverde/moodle-equipo3/assets/115749532/0c67b781-6cf9-4770-be33-b863cba5ac40)
+
 
 
 
